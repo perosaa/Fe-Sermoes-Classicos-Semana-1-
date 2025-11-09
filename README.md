@@ -1,65 +1,55 @@
-# ✝️ FÉ — Sermões Clássicos  
-**Autor:** Charles Spurgeon  
+---
+title: "FÉ Sermões Clássicos S1"
+author: "Charles Spurgeon"
+description: "Relatório da Semana 1 - Estudo sobre a fé segundo os Sermões Clássicos"
+date: "Semana 1"
+---
+
+# FÉ Sermões Clássicos S1
 
 ---
 
-## 🗓️ Relatório da Semana 1  
+## . FÉ
 
-### 📖 Tema: A Importância da Fé  
+### Relatório da Semana 1:
 
-Descobri que **Caim não foi escolhido por Deus** porque **não tinha fé**.  
-Deus aceitou as colheitas de **Abel**, pois **ele tinha fé**.  
+**Escrito por:** Charles Spurgeon  
 
-> A fé é como um **tempero essencial** — mesmo que algo seja bom,  
-> se não houver fé, **Deus nunca poderá aceitá-lo**.  
-> É **impossível agradar a Deus sem fé**, e o **principal objetivo do homem** é **agradá-Lo**.
+**Sermões Clássicos**
 
 ---
 
-### 💡 Os 3 Elementos da Fé
+Descobri que Caim não foi escolhido por Deus porque ele  
+não tinha fé então Deus escolheu a as colheitas de Abel  
 
-Segundo o livro, a fé é composta por três partes fundamentais:
+que tinha fé. A fé é tipo um tempero mesmo que algo seja  
+bom, mas se não houver fé, Deus nunca poderá e nunca  
 
-1. **Conhecimento**  
-2. **Assentimento**  
-3. **Confiança (ou ato de se apropriar do conhecimento)**  
-
-Esses três elementos geram uma fé **sólida e verdadeira**.  
-A confiança é o resultado do conhecimento e da aceitação das verdades de Deus.
+irá aceitá-lo ou seja impossível de agradara Deus. E o  
+principal objetivo do homem é agradar Deus  
 
 ---
 
-### ⚠️ A Falsa Fé  
+Dizem que a fé é composta por três elementos:  
+conhecimento, assentimento e, em seguida o que eles  
 
-> “É inútil para um homem dizer: ‘Eu sou crente’, e ainda não saber no que crê.”
-
-Um homem **não pode acreditar** naquilo que **não conhece**.  
-Muitos dizem ter fé, mas não conhecem **as Escrituras** nem **a base de sua crença**.  
-
-Há pessoas que possuem uma **fé superficial**, comparada à fé de um **lavadeiro** —  
-sem profundidade, sem conhecimento real.
+chamam de confiança ou o ato de se apropriar do  
+conhecimento onde geramos confiança  
 
 ---
 
-### 📚 Como Fortalecer a Fé  
+No livro diz que é inútil para um homem dizer “Eu sou  
+crente”, e ainda não saber no que crê um homem não  
 
-Um homem precisa **conhecer para crer**.  
-E isso se conquista de duas formas:
+pode acreditar no que ele não conhece. E mesmo assim  
+existem algumas pessoas que têm uma fé como a do  
 
-- 📖 **Lendo a Bíblia**, adquirindo sabedoria espiritual.  
-- 👂 **Ouvindo pessoas sábias**, que conhecem e ensinam a Palavra de Deus.  
+lavadeiro.  
+Ou seja um homem precisa conhecer, como conhecer?  
+lendo a Bíblia adquirindo o conhecimento da bíblia ou  
 
-> A fé verdadeira nasce do **conhecimento** e cresce com a **prática e a confiança**.
+escutando pessoas que sabem  
 
----
-
-## 🧠 Conclusão  
-
-A fé é a **base de toda a vida espiritual**.  
-Sem ela, é impossível agradar a Deus ou seguir o caminho certo.  
-
-Devemos buscar **conhecimento bíblico**, **compreensão espiritual** e **confiança plena** em Deus.  
-Somente assim nossa fé se tornará **viva, firme e agradável ao Senhor**.  
 
 ---
 
